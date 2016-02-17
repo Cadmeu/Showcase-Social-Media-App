@@ -1,0 +1,6 @@
+framework module Pods_Showcase_SocialMedia {
+  umbrella header "Pods-Showcase-SocialMedia-umbrella.h"
+
+  export *
+  module * { export * }
+}
